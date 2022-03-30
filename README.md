@@ -1,5 +1,4 @@
 # SmartPhoneGamePrograming
-![image](https://user-images.githubusercontent.com/89964495/160733985-8f0e6401-36bb-44fb-b31f-acfd97c8cbfb.png)
 ##### 게임 개요
 ##### - Stage는 총 3개로 구성
 ##### - 각종 장애물을 피하고 몬스터를 해치운다
@@ -8,6 +7,7 @@
 ##### - 몬스터에게 피격당하거나 장애물에 걸리면 해당 스테이지를 처음부터 다시 시작하게 된다.
 ##### - 플레이어는 총알로 몬스터를 해치울 수 있으며 점프를 이용하여 장애물을 피할 수 있다.
 ##### 게임 특징
+![image](https://user-images.githubusercontent.com/89964495/160733985-8f0e6401-36bb-44fb-b31f-acfd97c8cbfb.png)
 ##### 몬스터
 ##### - 바닥 타일이 있는 곳에 몬스터 배치
 ##### - 플레이어에게 피격당할 경우 몬스터는 사망
