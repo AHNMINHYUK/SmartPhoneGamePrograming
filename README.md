@@ -1,6 +1,6 @@
 # SmartPhoneGamePrograming
 ##### 게임 개요
-![image](https://user-images.githubusercontent.com/89964495/160738267-e7d5bea3-5099-4bbf-be0f-9d3abab0af08.png)
+![160738267-e7d5bea3-5099-4bbf-be0f-9d3abab0af08](https://user-images.githubusercontent.com/89964495/160738537-f741f10c-0aa4-4eba-88fe-5f8489a1cd88.png)
 ![image](https://user-images.githubusercontent.com/89964495/160734884-380455d8-ab76-4972-af89-4ccf53d0f80d.png)
 ##### - Stage는 총 3개로 구성
 ##### - 각종 장애물을 피하고 몬스터를 해치운다
